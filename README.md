@@ -1,10 +1,10 @@
-#Задание
+# Задание
 
 ## Работа с Git
 
 Команды с которыми я познакомился:
 
-### Основные команды git
+### Базовые команды git
 1. **`git init`**  
    
 2. **`git clone`**  
@@ -27,20 +27,14 @@
 
 11. **`git push`**  
 
----
-
 ### Флаги
 - **a** - Автоматически индексирует все изменения
 - **m** - Позволяет указать сообщение для коммита
 
----
-
 ### Блоки кода
-\```javascript
+```javascript
 console.log('Slonit is the best');
-\```
-
----
+```
 
 ### Ссылки
 [***Git курс***](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
